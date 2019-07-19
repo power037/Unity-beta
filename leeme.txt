@@ -30,5 +30,9 @@ no tengo java jdk : sudo apt-get install default-jdk
 
         [unity] ingrese el numero de palabras claves que vas a utilizar : 4
 
-5 ) : y listo !!!        
+5 ) : y listo !!!      
+
+------------- [ INFO ] -------------
+
+Si pueden mejorar el codigo aganlo :) 
 
