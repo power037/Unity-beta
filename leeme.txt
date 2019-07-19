@@ -17,7 +17,6 @@ no tengo java jdk : sudo apt-get install default-jdk
 
 - java unity
 
-
 ------------------- [CREAR UN DICCIONARIO ] ------------------
 
 1 ) : usar el comando --unity.create para crear un diccionario
@@ -32,7 +31,16 @@ no tengo java jdk : sudo apt-get install default-jdk
 
 5 ) : y listo !!!      
 
-------------- [ INFO ] -------------
+------------------------------------------------------------------------- [ INFO ] -----------------------------------------------------
 
 Si pueden mejorar el codigo aganlo :) 
+
+------------------------------------------------------- [ ERROR EN LINUX Y WINDOWS] ----------------------------------------------------
+
+Hay un error en linux y en windows con el jdk .
+La herramienta esta disañada con el jkd 8 y en algunas maquinas 
+
+ve a la imagen : error_linux 
+ si saben como se corrige el error modifica el codigo :) 
+
 
