@@ -7,7 +7,7 @@
 */
 
 /**
- *  [!] Este script es software libre. Pueden modificarlo,
+ *  Este script es software libre. Pueden modificarlo,
  *  crear nuevas variantes y nuevas verciones, pero 
  *  por favor recuerden y dejen los creditos a mi
  *  SirRiuz :D
