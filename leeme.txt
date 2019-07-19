@@ -1,0 +1,34 @@
+-------------------- [ UNITY ] ------------------------
+
+unity es una herramienta muy facil de utilizar , para 
+generar diccionarios para ataques de fuerza bruta 
+
+----------------- [ INSTALACION ] -------------------------
+
+no tengo java jre : sudo apt-get install default-jre
+
+no tengo java jdk : sudo apt-get install default-jdk
+
+- sudo git clone https://github.com/SirRiuz/Unity-beta.git
+
+- cd Unity-beta
+
+- javac unity.java
+
+- java unity
+
+
+------------------- [CREAR UN DICCIONARIO ] ------------------
+
+1 ) : usar el comando --unity.create para crear un diccionario
+
+2 ) : le asignamos el nombre a nustro diccionario 
+
+3 ) : ingresamos la ruta en la que se va a guardar el diccionario
+
+4 ) : ingresamos el numero de palabras claves que vamos a utilizar , ejemplo
+
+        [unity] ingrese el numero de palabras claves que vas a utilizar : 4
+
+5 ) : y listo !!!        
+
